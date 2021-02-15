@@ -6,4 +6,6 @@ I think that it is super useful to have this data visualized with the bubbles - 
 
 I was also surprised to see that netflix has almost the same amount of visits as Amazon. But it really surprised me to see how small the Amazon vists in comparison to Google. I was also happy to see more people visit Wikipedia in the US than amazon. However, some things made me question the reliability of this visualization. It is really hard to believe that more people visit Yahoo than Amazon. 
 
-It was also surprising to see just how big CNN is (the only US newsite that is on the visualization)
+It was also surprising to see just how big CNN is (the only US newsite that is on the visualization).
+
+Overall, I think the choice of color was very effective (not overwhelming at all) and it was interesting how the different ways to visualize data were combined into one data visualization. I believe it was very effective! It probably took a very long time to put this together. 
